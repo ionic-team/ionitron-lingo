@@ -5,7 +5,7 @@ module.exports = {
     request(
       'https://raw.github.com/driftyco/ionitron-lingo/master/templates/' + name + '.md',
       function(err, response, body) {
-        if (err) return cb(true);
+        if (err || response.statusCode !== 200) return cb(true);
         cb(null, body);
       }
     );
