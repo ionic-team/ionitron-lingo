@@ -1,4 +1,4 @@
-Greetings, @<%= user.login %>!.
+Greetings, @<%= user.login %>!
 
 My sensors indicate that you have created an issue on our tracker that is more asking for usage help than an actual error with Ionic framework.
 
