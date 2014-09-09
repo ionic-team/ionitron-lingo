@@ -2,6 +2,7 @@ Greetings, @<%= user.login %>!
 
 My sensors indicate that more information is required so that I may assist you.
 
+- Can you provide a detailed description of this issue?
 - How would a robot go about replicating this issue?
 - What platform does this happen on? (iOS, Android, all, etc.)
 - What platform versions does this happen on? (Android 4.2, iOS 7, all, etc.)
