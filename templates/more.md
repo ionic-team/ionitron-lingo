@@ -1,4 +1,4 @@
-Greetings, @<%= user.login %>!
+Greetings @<%= user.login %>!
 
 My sensors indicate that more information is required so that I may assist you.
 
