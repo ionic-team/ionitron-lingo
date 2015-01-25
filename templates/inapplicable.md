@@ -1,4 +1,4 @@
-Greetings, @<%= user.login %>!
+Greetings @<%= user.login %>!
 
 Sorry but this issue may no longer be applicable to recent versions of Ionic.
 
