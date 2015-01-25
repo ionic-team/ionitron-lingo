@@ -1,4 +1,4 @@
-Greetings, @<%= user.login %>!
+Greetings @<%= user.login %>!
 
 Due to the age of this issue, and possibility it may have already been fixed or no longer applicable, my sensors indicate that this issue should be closed.
 
