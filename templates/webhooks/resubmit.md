@@ -1,4 +1,4 @@
-Greetings, @<%= user.login %>!
+Greetings @<%= user.login %>!
 
 We are now requiring all issues to be submitted through our [custom issue form](http://ionicframework.com/submit-issue/#/?iid=<%= issue.number %>) so that we have all of the information necessary to fix them as quickly as possible.
 
