@@ -5,7 +5,7 @@ I've closed this issue because my sensors indicated that perhaps it is no longer
 - Can you provide a detailed description of this issue?
 - How would a robot go about replicating this issue?
 - On which platform does this issue occur? (iOS, Android, all, etc.)
-- On which platform versions does this occur? (Android 4.2, iOS 7, all, etc.)
+- On which platform versions does this occur? (Android 4.2, iOS 8, all, etc.)
 - Is this an issue with the Ionic Framework or Ionic CLI?
 
 Additionally, providing a [codepen](http://codepen.io/ionic/public-list/) which replicates the issue is extremely helpful.
