@@ -5,7 +5,7 @@ My sensors indicate that I require more information in order to assist you.
 - Can you provide a detailed description of this issue?
 - How would a robot go about replicating this issue?
 - On which platform does this happen occur? (iOS, Android, all, etc.)
-- On which platform versions does this occur? (Android 4.2, iOS 7, all, etc.)
+- On which platform versions does this occur? (Android 4.2, iOS 8, all, etc.)
 - Is this an issue with the Ionic Framework or Ionic CLI?
 
 Additionally, providing a [codepen](http://codepen.io/ionic/public-list/) that replicates the issue is extremely helpful.
