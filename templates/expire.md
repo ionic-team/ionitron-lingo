@@ -1,6 +1,6 @@
 Greetings @<%= user.login %>!
 
-I've closed this issue because my sensors indicated it was old and perhaps no longer applicable--or may have already been fixed. However, if you are still experiencing this issue, please feel free to reopen it and provide the following information, so that I may assist you:
+I've closed this issue because my sensors indicated that perhaps it is no longer applicable--or may have already been fixed. However, if you are still experiencing this issue, please feel free to reopen it and provide the following information, so that I may assist you:
 
 - Can you provide a detailed description of this issue?
 - How would a robot go about replicating this issue?
