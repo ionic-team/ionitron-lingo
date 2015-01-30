@@ -1,5 +1,5 @@
 Greetings @<%= user.login %>!
 
-This issue has been closed due its age and inactivity. If you are still experiencing this issue, please feel free to reopen it and include any necessary information so that we can look into this further.
+I've closed this issue because it was old and inactive. However, if you are still experiencing this issue, please feel free to reopen it and include any examples and other necessary information, so that we can look into it further.
 
 Thank you for allowing me to assist you.
