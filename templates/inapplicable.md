@@ -2,7 +2,7 @@ Greetings @<%= user.login %>!
 
 I'm sorry, but my sensors indicate that this issue may no longer apply to recent versions of Ionic.
 
-If you are still experiencing this issue, please feel free to reopen it and provide the following information, so that I may assist you:
+If you are still experiencing this issue, please feel free to reopen it by creating a new issue and provide the following information, so that I may assist you:
 
 - Can you provide a detailed description of this issue?
 - How would a robot go about replicating this issue?
