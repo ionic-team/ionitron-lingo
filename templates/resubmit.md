@@ -8,4 +8,4 @@ I will have no choice but to close this issue if it is not resubmitted through t
 
 Thank you!
 
-<span ionic-issue-resubmit></span>
+<span ionitron-issue-resubmit></span>
