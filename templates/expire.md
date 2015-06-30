@@ -10,7 +10,7 @@ I've closed this issue because my sensors indicated that perhaps it is no longer
 
 Additionally, providing a [codepen](http://codepen.io/ionic/public-list/) which replicates the issue is extremely helpful.
 
-If you wish to get help using the framework itself, I recommended visiting [the forum](http://forum.ionicframework.com). The humans there would be delighted to help you.
+If you wish to get help using Ionic, I recommended visiting [the forum](http://forum.ionicframework.com). The humans there would be delighted to help you.
 
 Thank you for allowing me to assist you.
 
