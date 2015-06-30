@@ -12,7 +12,7 @@ If you are still experiencing this issue, please feel free to reopen it by creat
 
 Additionally, providing a [codepen](http://codepen.io/ionic/public-list/) that replicates the issue is extremely helpful.
 
-If you wish to get help using the framework itself, I recommended visiting [the forum](http://forum.ionicframework.com). There are many humans there who can offer sage advice.
+If you wish to get help using Ionic, I recommended visiting [the forum](http://forum.ionicframework.com). There are many humans there who can offer sage advice.
 
 Thank you for allowing me to assist you.
 
