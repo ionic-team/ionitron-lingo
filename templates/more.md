@@ -10,7 +10,7 @@ My sensors indicate that I require more information in order to assist you.
 
 Additionally, providing a [codepen](http://codepen.io/ionic/public-list/) that replicates the issue is extremely helpful.
 
-If you wish to get help using the framework itself, I recommended visiting [the forum](http://forum.ionicframework.com), where many humans will be able to offer wisdom and advice.
+If you wish to get help using Ionic, I recommended visiting [the forum](http://forum.ionicframework.com), where many humans will be able to offer wisdom and advice.
 
 Thank you for allowing me to assist you.
 
